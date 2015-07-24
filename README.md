@@ -20,7 +20,7 @@ free hardware electronic textile sound platform ( based on NE555 oscillator )
 * 7. Place the circuit on the neoprene, remove mild adhesive and iron it
 * 8. Solder the components
 * 9. Test by placing a 3v to 15v battery on the PLUS & round pad underneath it, THEN a resistive sensor on the two upper pads (INPUT) and THEN an actuator (8 ohm speaker for instance) on the two lower pads (OUTPUT).
-</ br>
+
 <img src=schematics/textiloBIG.png width=400>
-</ br>
+
 * 10. Connect any sensors and outputs, share your creations & improve world karma ^^
