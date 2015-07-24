@@ -21,6 +21,6 @@ free hardware electronic textile sound platform ( based on NE555 oscillator )
 * 8. Solder the components
 * 9. Test by placing a 3v to 15v battery on the PLUS & round pad underneath it, a resistive sensor on the two upper pads (INPUT) and an actuator (8 ohm speaker for instance) on the two lower pads (OUTPUT).
 
-! [textilo](schematics/textiloBIG.png)
+< img src = https://github.com/jeanbaptiste/textilo/blob/master/schematics/textiloBIG.png >
 
 * 10. Connect any sensors and outputs, share your creations & improve world karma ^^
