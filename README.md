@@ -38,7 +38,7 @@ Textilo uses a cute and popular electronic component: the 555 Integrated Circuit
 
 Wikipedia has a great page about it: https://en.wikipedia.org/wiki/555_timer_IC
 
-When used in 'bistable' mode, the 555 IC becomes an oscillator, capable of generating a specific frequency as an output of a variable resistance place as an input.
+When used in 'astable' mode, the 555 IC becomes an oscillator, capable of generating a specific frequency as an output of a variable resistance place as an input.
 
 The 555 is very tolerant in terms of voltage, it can receive from 3 to 15 volts. It outputs a maximum of 2,7 volts approximatively. This means you can directly connect low power actuators such as speakers but not an LED or a motor which will require an additional (simple) circuit. You can use a jack to plug your textilo in the soundcard of your computer, making it a very simple & cheap interface to control stuff with it!
 
