@@ -42,7 +42,7 @@ When used in 'astable' mode, the 555 IC becomes an oscillator, capable of genera
 
 The 555 is very tolerant in terms of voltage, it can receive from 3 to 15 volts. It outputs a maximum of 2,7 volts approximatively. This means you can directly connect low power actuators such as speakers but not an LED or a motor which will require an additional (simple) circuit. You can use a jack to plug your textilo in the soundcard of your computer, making it a very simple & cheap interface to control stuff with it!
 
-### how to 'program' textilo
+### how to 'program' textilo ?
 
 Well, textilo is not 'programmed' with software but with specific hardware configuration. It means that you do not need to input 'code' to textilo but you have to configure it by placing specific electronic components at its pins. The values of these different components will impact the way it behaves, hence "predicting" its future state. In a way, this is a kind of hardware or analogue 'programming' but with no text or code input. 
 
