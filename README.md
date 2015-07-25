@@ -1,5 +1,5 @@
 # textilo
-free hardware electronic textile platform ( based on NE555 ) -- All code in GPLv2 & content in Creative Commons CC0 & CC-BY-SA 4.0.
+free hardware electronic textile platform ( based on NE555 ) -- All code in GPLv2 & content in Creative Commons CC0 & CC-BY-SA 4.0. Copyleft Collectif 0R.
 
 ## 10 steps to assemble a textilo soft electronic board
 
